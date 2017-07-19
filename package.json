@@ -1,0 +1,30 @@
+{
+  "name": "copy-webpack-plugin-glob",
+  "version": "0.0.1",
+  "description": "webpack plugin to copy file from source  to destinaion by glob pattern",
+  "main": "copy-webpack-plugin-glob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonlx/copy-webpack-plugin-glob.git"
+  },
+  "keywords": [
+    "webpack",
+    "copy",
+    "plugin",
+    "glob"
+  ],
+  "author": "sharonli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonlx/copy-webpack-plugin-glob/issues"
+  },
+  "homepage": "https://github.com/sharonlx/copy-webpack-plugin-glob#readme",
+  "dependencies": {
+    "fs-utils": "^0.7.0",
+    "glob": "^7.1.2",
+    "webpack": "^2.6.1"
+  }
+}
